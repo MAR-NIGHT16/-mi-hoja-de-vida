@@ -1,8 +1,8 @@
 # Mi hoja de vida
-**Nombre completo:** Lina Mariana Alvarez Gongora
-**Cedula de Ciudadania:** 1023375239
-**Correo electrónico:** linalvarez1603@gmail.com
-**Ciudad** Bogota D.C
+-**Nombre completo:** Lina Mariana Alvarez Gongora
+-**Cedula de Ciudadania:** 1023375239
+-**Correo electrónico:** linalvarez1603@gmail.com
+-**Ciudad** Bogota D.C
 # Perfil
 **Personal** Soy estudiante de ingenieria de sistemas con interes en la programacion, el diseño grafico y las artes. Me caracterizo por ser responsable creativa y dedicada en varios proyectos
 ## Formación académica
